@@ -27,3 +27,19 @@ div.bar.item1:hover{
   background: red;
   
 }
+
+.fixed{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: #f4ab76;
+    position: fixed;
+    left: 90%;
+    top: 90%;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+    
